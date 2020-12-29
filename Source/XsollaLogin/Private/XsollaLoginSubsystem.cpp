@@ -51,7 +51,7 @@ const FString UXsollaLoginSubsystem::UsersEndpoint(TEXT("https://login.xsolla.co
 UXsollaLoginSubsystem::UXsollaLoginSubsystem()
 	: UGameInstanceSubsystem()
 {
-	static ConstructorHelpers::FClassFinder<UUserWidget> BrowserWidgetFinder(TEXT("/Xsolla/Login/Components/W_LoginBrowser.W_LoginBrowser_C"));
+	static ConstructorHelpers::FClassFinder<UUserWidget> BrowserWidgetFinder(TEXT("/XsollaInventory/Login/Components/W_LoginBrowser.W_LoginBrowser_C"));
 	DefaultBrowserWidgetClass = BrowserWidgetFinder.Class;
 }
 
