@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.2.1] - 2021-03-19
+
+### Added
+- Web request analytics enhancements.
+
+### Fixed
+- Minor build issues.
+
 ## [0.2.0] - 2020-12-25
 
 ### Changed
