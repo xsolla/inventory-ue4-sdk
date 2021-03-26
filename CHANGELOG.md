@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.3.0] - 2021-03-29
+
+### Added
+- UI themes support.
+- Xbox One and PS4 support.
+
+### Changed
+- Mechanism for opening links in web browser.
+- Web request handling logic.
+
 ## [0.2.1] - 2021-03-19
 
 ### Added
