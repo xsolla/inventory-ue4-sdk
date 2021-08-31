@@ -2,7 +2,7 @@
   "FileVersion": 3,
   "Version": 10,
   "VersionName": "0.5.1",
-  "EngineVersion": "4.26.0",
+  "EngineVersion": "4.27.0",
   "FriendlyName": "Xsolla Inventory SDK",
   "Description": "Xsolla Inventory SDK for Unreal Engine 4",
   "Category": "Other",
