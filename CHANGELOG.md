@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.6.0] - 2021-09-17
+
+### Changed
+- Inventory demo refactoring.
+
+### Fixed
+- Issue with displaying embedded browser.
+- Empty Client ID without explicit plugin initialization.
+
 ## [0.5.1] - 2021-08-30
 
 ### Fixed
